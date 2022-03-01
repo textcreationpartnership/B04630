@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the memory of Mr. Caleb Skinner, and Mr. Hezekiah Middleton; merchants. Who were drowned at Black-wall, coming from on board a ship the 5th of May. 1688. / By a school-fellow of Mr. Skinners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04630</idno>
+            <idno type="STC">Wing O317</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[186]</idno>
+            <idno type="EEBO-CITATION">99886948</idno>
+            <idno type="PROQUEST">ocm99886948</idno>
+            <idno type="VID">181509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181509)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[187])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the memory of Mr. Caleb Skinner, and Mr. Hezekiah Middleton; merchants. Who were drowned at Black-wall, coming from on board a ship the 5th of May. 1688. / By a school-fellow of Mr. Skinners.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.H. for the use of the friends of the deceased.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"May 25. 1688. This may be printed. Robert Midgley."</note>
+                  <note>Imprint date from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "Patience a while, unruly tears! My pen".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:181509:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>ON THE MEMORY OF Mr. CALEB SKINNER, and Mr. HEZEKIAH MIDDLETON; <hi>Merchants.</hi>
+            </head>
+            <head type="sub">Who were Drowned at <hi>BLACK-WALL,</hi> Coming from on Board a <hi>SHIP</hi> 
+               <date>the  5<hi>th</hi> of <hi>May.</hi> 1688.</date>
+            </head>
+            <byline>By a School-fellow of Mr. <hi>SKINNERS.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <hi>PAtience</hi> a while, unruly Tears! My Pen</l>
+               <l>Muſt Weep, and you ſhall have your turns again.</l>
+               <l>—Come all you Artleſs Paſſions, Grief and Love,</l>
+               <l>Fruſtrated Hopes, and Sickly wan Deſpair;</l>
+               <l>Beat all your Throbing Breaſts, and rend your Hair;</l>
+               <l>Till every thing but Deſtiny you move:</l>
+               <l>Nor need you fear Diſturbance from the reſt;</l>
+               <l>All the white Paſſions now are flown away,</l>
+               <l>Each ſmiling Motion leaves the frighted Breaſt</l>
+               <l>Of our Unhappy <hi>Swains:</hi> Joy will not ſtay,</l>
+               <l>Nor Bliſs, nor Pleaſure ſweet, nor calm Delight;</l>
+               <l>
+                  <hi>Deep, deep!</hi> They vaniſh into Endleſs Night:</l>
+               <l>Not one poor <hi>Hope</hi> we from the <hi>Wrack</hi> cou'd ſave,</l>
+               <l>All with the Shepherds ſunk, beneath the <hi>Greedy Wave.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You <hi>Nymphs</hi> who rowl from far to Father <hi>Thames,</hi>
+               </l>
+               <l>The Eternal Tribute of our Chriſtal Streams;</l>
+               <l>Keep not one Drop behind! Wring out each Urn,</l>
+               <l>And our Unhappy Shepherds help to mourn.</l>
+               <l>Ask not their Names; In every Eye you'll read</l>
+               <l>'Tis <hi>Tityrus,</hi> and <hi>Celadon</hi> are dead.</l>
+               <l>Ah <hi>Tityrus!</hi> How oft in Youthful Years,</l>
+               <l>As Merry as the Spring that bloom'd around,</l>
+               <l>Below the Tyranny of Hopes and Fears,</l>
+               <l>We've worn the happy thoughtleſs Hours away,</l>
+               <l>With <hi>Ruſtick Garlands</hi> oft each other Crown'd;</l>
+               <l>Blithe as the Morn, and Jocund as the Day.</l>
+               <l>How often gaz'd upon the <hi>Dimpled Wave?</hi>
+               </l>
+               <l>And ſmil'd like that which ſoftly ſtole along,</l>
+               <l>As liſtning to a Shepherds humble Song!</l>
+               <l>In vain we boaſt of Gifts which <hi>Phoebus</hi> gave,</l>
+               <l>Of Foreſight deep, and Providence Divine.</l>
+               <l>How little dreamt I then the <hi>Fates Deſign,</hi>
+               </l>
+               <l>That ſuch muſt be th' Unhappy Shepherds Grave.</l>
+            </lg>
+            <lg>
+               <l>Thee <hi>Celadon,</hi> although to me unknown,</l>
+               <l>Thee! Partner of my <hi>Tityrus</hi>'s Fate;</l>
+               <l>With him I wail, ſhare thou in every Groan,</l>
+               <l>Share thou with him in his Immortal State:</l>
+               <l>Enter with him the <hi>Muſes</hi> Golden Gate.</l>
+               <l>Thee <hi>Celadon!</hi> Who though unknown to me;</l>
+               <l>Where ſunk in th' <hi>Crowd</hi> my ſelf unknown I lie,</l>
+               <l>Piping my <hi>Oaten Tunes,</hi> did'ſt mount more High;</l>
+               <l>And Crowds, and Men, and Towns, and Cities ſee,</l>
+               <l>And all the Worlds miſtaken Gaiety.</l>
+               <l>Unmov'd thou ſaw'ſt 'em all, did'ſt all o'ercome,</l>
+               <l>And with thee brought thy <hi>Ruſſet</hi> Vertue Home.</l>
+               <l>Thou dar'ſt be ſtill Unfaſhionably brave;</l>
+               <l>No drop of Blood about thee, call'd the Slave.</l>
+               <l>Ah! Was that Vertue made to ſet ſo ſoon,</l>
+               <l>Muſt ſuch a <hi>Sun be Clouded e'er 'tis Noon:</hi>
+               </l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>And e'er he half the round of Life gets o'er,</l>
+                  <l>Be drench'd in that wide <hi>Sea</hi> that knows no ſhore;</l>
+                  <l>
+                     <hi>Thames</hi> was his <hi>Sea,</hi> and there he ſets, to riſe no more.</l>
+               </lg>
+               <l>He was too great for <hi>Clajus</hi> to commend,</l>
+               <l>Juſt great enough for <hi>Tityrus</hi> his Friend.</l>
+               <l>Cloſe in each others Arms, ſee where they lie!</l>
+               <l>Unminding, or Unfearing Hovering Fate;</l>
+               <l>Or had they known 't, how could they better die?</l>
+               <l>How could they be laid out in greater State?</l>
+               <l>Both gently lean'd upon the others Breaſt;</l>
+               <l>Thus both together Glided ſoft to <hi>Endleſs Reſt:</hi>
+               </l>
+               <l>Bright Shades! For you who only ſet to riſe,</l>
+               <l>To riſe again, and ſhine in brighter Skies:</l>
+               <lg>
+                  <l>To Pity you were almoſt Blaſphemy,</l>
+                  <l>Than Death, could any greater Bleſſing be;</l>
+                  <l>Sure <hi>Tityrus</hi> 't had been beſtow'd on thee.</l>
+               </lg>
+               <l>Our ſelves let's Pity then, for they're above,</l>
+               <l>All but our Imitation and our Love:</l>
+               <l>Come then you Shepherds, come you ſighing Swains!</l>
+               <l>View on yon <hi>Oozy</hi> Bank, their ſad remains;</l>
+               <l>Where's now that Honey which ſo oft has flown</l>
+               <l>From their Dear Lips? where all that lively Grace?</l>
+               <l>Livid and Black, and all Deform'd they're grown,</l>
+               <l>And Death and Horror revel in their Face!</l>
+               <l>Bloated and ſwoln their Eyes, and dull and dead,</l>
+               <l>Mud in their Hands, and Weeds about their Head.</l>
+            </lg>
+            <lg>
+               <l>Away you common Griefs, here comes a <hi>Tide</hi>
+               </l>
+               <l>That overwhelms the diſtant Fields, on either ſide:</l>
+               <l>Is any here ſo large a ſhare can claim,</l>
+               <l>As can a Mothers or a Siſters Name:</l>
+               <l>See where acroſs the crowded <hi>Strand</hi> they fly,</l>
+               <l>And through the opening Ring of <hi>Gazers</hi> come?</l>
+               <l>But only on his Face can Weeping lye,</l>
+               <l>Rigid as he, and Cold, and Pale, and Dumb:</l>
+               <l>See where old Reverend Father <hi>Thames</hi> the while</l>
+               <l>Sits ſad and Penſive, on ſome Neighbouring Iſle.</l>
+               <l>His <hi>Reedy Garland</hi> from his Brows he throws;</l>
+               <l>He throws his Meadow-ſweet, and Flowers away,</l>
+               <l>Dull and unguided, ſee his Chariot goes;</l>
+               <l>And where they pleaſe, he lets his Waters ſtray.</l>
+               <l>His curſed guilty Water's now as black</l>
+               <l>As <hi>Acheron,</hi> or <hi>Styx</hi>'s <hi>Lazy Lake.</hi>
+               </l>
+               <l>He does of them, and they of <hi>Fate</hi> complain,</l>
+               <l>And both rowl deeply Murmuring in the Main.</l>
+            </lg>
+            <lg>
+               <l>The Silver <hi>Medway</hi> greets them as they paſs,</l>
+               <l>And ask why they ſuch diſmal Pomp put on;</l>
+               <l>But not a Word they Anſwer, ſave Alas!</l>
+               <l>Alas! Poor <hi>Tityrus</hi> and <hi>Celadon.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>May 25. 1688.</date>
+               </dateline>
+            </opener>
+            <p>This may be Printed.</p>
+            <closer>
+               <signed>Robert Midgley.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. H.</hi> for the Uſe of the <hi>Friends</hi> of the Deceaſed.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
